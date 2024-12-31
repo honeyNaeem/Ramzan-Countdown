@@ -76,3 +76,39 @@ span {
         font-size: 1.5em;
     }
 }
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.8em;
+    }
+
+    .container {
+        width: 90%;
+        padding: 15px; 
+    }
+
+    h2 {
+        font-size: 1.5em
+    }
+
+    .chuto {
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5em; 
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    h2 {
+        font-size: 1.2em; 
+    }
+
+    .chuto {
+        font-size: 0.7em;
+    }
+}

@@ -1,6 +1,3 @@
-
-
-
 const daysHtml = document.getElementById("day")
 const hoursHtml = document.getElementById("hours")
 const minHtml = document.getElementById("minutes")
@@ -8,13 +5,6 @@ const secHtml = document.getElementById("seconds")
 
 
 let comingRamzan = new Date("3/1/2025").getTime()
-
-
-// console.log('Ramzan', comingRamzan)
-// console.log('Date', currentDate)
-// console.log('diff', diff)
-
-// 1 sec = 1000 ms
 
 
 
